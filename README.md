@@ -1,4 +1,4 @@
-# Yonsei-NLP-Study-Season1
+# Yonsei NLP Study Season 1
 ![main](./img/summary.PNG) <br>
 **[About Yonsei NLP Study]** <br>
 Yonsei NLP Study is consisted of 4 Students who are very passionate in the field of Natural Language Processing! <br>
@@ -14,7 +14,7 @@ During this period we have covered 37 papers in total! <br>
 This repository contains presentation materials, links to presentation videos, and a summary of all the papers we have studied in Yonsei NLP Study Season1(2021.07.07~2021.08.25). <br>
 <br>
 ## About the Members
-* [Seungone Kim(김승원)](https://github.com/SeungoneKim)
+* [Seungone Kim(김승원)](https://github.com/SeungoneKim) - Leader!
 * [GuiJin Son(손규진)](https://github.com/ampehta)
 * [Hyungjoo Chae(채형주)](https://github.com/kyle8581)
 * [Sejune Joo(주세준)](https://github.com/joocjun)
