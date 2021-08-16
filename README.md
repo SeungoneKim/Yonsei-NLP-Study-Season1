@@ -15,7 +15,7 @@ This repository contains presentation materials, links to presentation videos, a
 <br>
 ## About the Members
 * [Seungone Kim(김승원)](https://github.com/SeungoneKim) - Leader!
-* [GuiJin Son(손규진)](https://github.com/ampehta)
+* [GUIJIN SON(손규진)](https://github.com/guijinSON)
 * [Hyungjoo Chae(채형주)](https://github.com/kyle8581)
 * [Sejune Joo(주세준)](https://github.com/joocjun)
 
