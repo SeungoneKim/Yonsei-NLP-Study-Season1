@@ -30,7 +30,7 @@ The following are the list of 37 papers <br>
 * [Deep contextualized word representations](https://arxiv.org/abs/1802.05365)
 * [Attention is All You Need](https://arxiv.org/abs/1706.03762)
 * [BERT: Pre-training of Deep bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
-<br>
+
 ### Transformer based Language Models with Various Pretraining Methods
 * [Improving Language Understanding by Generative Pre-Training](https://paperswithcode.com/method/gpt)
 * [Language Models are Unsupervised Multitask Learners](https://paperswithcode.com/method/gpt-2/)
@@ -44,34 +44,34 @@ The following are the list of 37 papers <br>
 * [DeBERTa : Decoding-enhanced BERT with Disentangled Attention](https://arxiv.org/abs/2006.03654)
 * [SpanBERT : Improving Pre-training by Representing and Predicting Spans](https://arxiv.org/abs/1907.10529)
 * [ELECTRA : Pretraining Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/abs/2003.10555)
-<br>
+
 ### Sparse Attention Models & Approaches for Longer Sequences
 * [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062)
 * [Reformer : The Efficient Transformer](https://arxiv.org/abs/2001.04451)
 * [Longformer : The Long-Document Transformer](https://arxiv.org/abs/2004.05150)
 * [Transformer-XL : Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860)
-<br>
+
 ### Distilation / Weight Sharing 
 * [DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/abs/1910.01108)
 * [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/2007.14062)
-<br>
+
 ### MultiLingual / Analysis / Tokenization
 * [Transformer-XL : Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860)
 * [A Primer in bertology : What we know about how bert works](https://arxiv.org/abs/2002.12327)
 * [ByT5: Towards a token-free future with pre-trained byte-to-byte models](https://arxiv.org/abs/2105.13626)
-<br>
+
 ### New model architecture / pretraining approaches for Natural Language Processing
 * [Pay Attention to MLPs](https://arxiv.org/abs/2105.08050)
 * [GAN-BERT : Generative Adversarial Learning for Robust Text Classification with a Bunch of Labeled Examples](https://aclanthology.org/2020.acl-main.191/)
 * [Switch Transformers : Scaling to trillion parameter models with simple and efficient sparsity](https://arxiv.org/abs/2101.03961)
 * [Large Product Key Memory for Pretrained Language Models](https://arxiv.org/abs/2010.03881)
 * [Fnet : Mixing Tokens with Fourier Transforms](https://arxiv.org/abs/2105.03824)
-<br>
+
 ### NLP Tasks : Summarization / QA
 * [ERNIE : Enhanced Language Representations with Informative Entities](https://arxiv.org/abs/1905.07129)
 * [REALM : Retrieval-Augmented Language Model Pre-training](https://arxiv.org/abs/2002.08909)
 * [PEGASUS : Pre-training with extracted gap-sentences for Abstractive Summarization](https://arxiv.org/abs/1912.08777)
-<br>
+
 ### Etc
 * [One Epoch is All You Need](https://arxiv.org/abs/1906.06669)
 * [CLIP : Connecting Text and Images](https://openai.com/blog/clip/)
