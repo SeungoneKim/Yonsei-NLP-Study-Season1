@@ -19,7 +19,12 @@ This repository contains presentation materials, links to presentation videos, a
 * [Hyungjoo Chae(채형주)](https://github.com/kyle8581)
 * [Sejune Joo(주세준)](https://github.com/joocjun)
 
-
+## Link to Presentation(Youtube)
+* [RoBERTa (Seungone Kim)](https://www.youtube.com/watch?v=_FUXSTK_Xqg)
+* [PEGASUS (Seungone Kim)](https://www.youtube.com/watch?v=lc-o2_GTARY)
+* [BIGBIRD (Seungone Kim)](https://www.youtube.com/watch?v=CWbrnkGC0c0)
+* [Sparse Attention - Reformer & Longformer (Seungone Kim)](https://www.youtube.com/watch?v=gipCOCw3aqA)
+* [gMLPs (Seungone Kim)](https://www.youtube.com/watch?v=dcolzDa5YUU)
 
 ## List of Papers we covered
 The following are the list of 37 papers <br>
